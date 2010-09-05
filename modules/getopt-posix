@@ -14,6 +14,7 @@ unistd
 extensions
 include_next
 arg-nonnull
+setenv
 
 configure.ac:
 gl_FUNC_GETOPT_POSIX
